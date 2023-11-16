@@ -33,4 +33,4 @@ void (*handle_error[])(void) = {
     readline_error
 };
 
-#endif /* _MINISHELL_H_ *
+#endif /* _MINISHELL_H_ */
